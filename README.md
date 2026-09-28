@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I’m Ahmet Erçıkdı. I am a freshman at Bilkent University. My department is Computer Science.
 <!--
 **ahmetercikdi25/ahmetercikdi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
